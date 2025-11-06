@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This project provides a production-quality reference implementation for building
+This project provides a **production-quality** reference implementation for building
 Agentic applications that use [Agents] and [Retrieval Augmented Generation
 (RAG)][rag] to query and interact with data stored in Google Cloud Databases.
 
